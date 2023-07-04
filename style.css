@@ -1,0 +1,87 @@
+* {
+margin: 0%;
+padding: 0%;
+} 
+ul{
+    overflow: hidden;
+    background-color: black;
+    margin: 20px;
+    padding: 10px;
+}
+li,a{
+    display: inline;
+    text-decoration: none;
+    float: none;
+    color: brown;
+    padding:10px;
+    
+} 
+li,a:hover{
+    color: white;
+    cursor: pointer;
+}
+h1{
+    text-align: center;
+    color:brown;
+}
+samp{
+    font-size: 88px;
+    color: blue;
+}
+
+
+p{
+    text-align: center;
+    color: green;
+}
+.para{
+    margin: 33px;
+    color: green;
+    font-size: 20px;
+}
+.p2{
+    font-family: 'Fasthand', cursive;
+    color:#d2691e
+}
+.samp2{
+    color: yellowgreen;
+    font-family: 'Fasthand', cursive;
+    font-size: 88px;
+}
+.h3{
+    font-family: 'Fasthand', cursive;
+    font-family: 'Pacifico', cursive; 
+    color: blue;
+}
+.samp3{
+    font-family: 'Fasthand', cursive;
+font-family: 'Pacifico', cursive;
+color: #d2691e;
+
+
+
+}
+.h4{
+    font-family: 'Fasthand', cursive;
+    font-family: 'Pacifico', cursive;
+    font-family: 'Roboto Mono', monospace;
+    color: rgb(255 0 255);
+}
+.samp4{
+    font-family: 'Fasthand', cursive;
+font-family: 'Pacifico', cursive;
+font-family: 'Roboto Mono', monospace;
+}
+.h5{
+    font-family: 'Fasthand', cursive;
+    color: red;
+}
+.samp5{
+    font-family: 'Fasthand', cursive;
+    font-size: 100px;
+}
+p:hover{
+    color: #d2691e;
+    cursor: pointer;
+}
+
